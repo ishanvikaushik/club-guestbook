@@ -3,7 +3,7 @@
 <h2>Follow these steps to contribute to this repo</h2>
 <li>When you want to work on a GitHub project, the first step is to fork a repo.
 
-<li>Click on the Fork button in the top-right corner. This creates a new copy of my repo under your GitHub username like this: <br><br><pre>https://github.com/[YourUserName]/mlsa-workshop-diy<br></pre>
+<li>Click on the Fork button in the top-right corner. This creates a new copy of my repo under your GitHub username like this: <br><br><pre>https://github.com/[YourUserName]/club-guestbook<br></pre>
 
 <li>Next, clone the repo by opening the terminal on your computer and running the command: <br><br>
 <pre>git clone https://github.com/[YourUserName]/club-guestbook<br></pre>
